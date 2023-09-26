@@ -3,6 +3,8 @@ This repository is designed to be a collection of resources to aid the weary sec
   ## Security and Risk Management
    ### Security control principles
    ### IT policies and methods
+  - [ ] [Altius Tempaltes](https://www.altiusit.com/policies.htm)
+  ### Ideas for security skills of data systems
    ### Calculation of observance requirements
    ### Creating a scope, proposal, and strategy for enterprise continuity requirements    
    ### Risk-centered concepts
@@ -54,7 +56,49 @@ This repository is designed to be a collection of resources to aid the weary sec
   ### Java and JavaScript
   ### TypeScript
   ### Ruby
-  
+
+## Threat Intelligence Feeds
+  - [ ] [Krebs](https://krebsonsecurity.com/) - Brian Krebs is an American journalist and investigative reporter. He is best known for his coverage of profit-seeking cybercriminals. 
+  - [ ] [Verizon DBIR](https://enterprise.verizon.com/resources/reports/dbir/) - Annual report released by Verizon around March. The most comprehensive security trends.
+  ### https://www.schneier.com/
+  ### https://unit42.paloaltonetworks.com/tag/threat-assessment/
+  ### https://unit42.paloaltonetworks.com/?pg=1#reports
+  ### https://unit42.paloaltonetworks.com/?pg=1#threat-brief
+  ### https://thedfirreport.com/
+  ### https://isc.sans.edu/
+  ### https://www.troyhunt.com/
+  ### https://blog.didierstevens.com/
+  ### https://www.sans.org/reading-room/popular/week
+  ### https://www.darkreading.com/attacks-breaches.asp
+  ### https://www.darkreading.com/threat-intelligence.asp
+  ### https://www.darkreading.com/vulnerabilities-threats.asp
+  ### https://www.darkreading.com/security-analytics.asp
+  ### https://www.fireeye.com/current-threats/threat-intelligence-reports.html
+  ### https://www.fireeye.com/blog/threat-research.html
+  ### https://www.fireeye.com/current-threats/apt-groups.html
+  ### https://thehackernews.com/
+  ### https://portswigger.net/daily-swig
+  ### https://www.recordedfuture.com/category/research/
+  ### https://www.recordedfuture.com/blog/
+  ### https://www.ibm.com/security/data-breach/threat-intelligence
+  ### https://redcanary.com/threat-detection-report/
+  ### https://threatpost.com/
+  ### https://www.cyberscoop.com/
+  ### https://thisweekin4n6.com/
+  ### https://googleprojectzero.blogspot.com/
+
+## Podcasts
+  - [ ] [The Cyberwire](https://thecyberwire.com/) - Daily Cybersecurity News. Very timely and informative. They recently added a new CSO Perspectives segment that will be useful to you.
+  - [ ] [Recorded Future](https://www.recordedfuture.com/) - Great podcast that contains more business-oriented Cybersecurity news and interviews than some of the others.
+  - [ ] [Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans) - Weekly Cybersecurity News, from the same people who do the Cyberwire, focus on social engineering attacks.
+  - [ ] [SANS Internet Stormcenter Daily Stormcast](https://isc.sans.edu/podcast.html) - GREAT 5 minute podcast released daily. High level, quick coverage, but doesn't have the story telling or detail that I usually prefer.
+  - [ ] [Darknet Diaries](https://darknetdiaries.com/) - Narrative-based podcasts that spend a single or a few episodes to tell the stories about some of the most important or interesting hacks throughout history. Probably not as "useful" as some of the others, but very interesting storytelling.
+  - [ ] [Malicious Life](https://malicious.life/) - Like, Darknet Diaries, this is a narrative-based podcasts that spend a single or a few episodes to tell the stories about some of the most important or interesting hacks throughout history. Again, probably not as "useful" as some of the others, but very interesting storytelling.
+  - [ ] [Cyber Motherboard](https://www.vice.com/en/topic/cyber-podcast) - Weekly Cybersecurity News and stories from Vice - has some cultural/political leanings, but covers very interesting stories.
+  - [ ] [Security Now](https://twit.tv/shows/security-now) - Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of SpinRite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.
+  - [ ] [Defensive Security Podcast](https://defensivesecurity.org/) - The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure. This podcast is hosted by Jerry Bell (@maliciouslink) and Andrew Kalat (@lerg). This podcast and web site are not affiliated with the employers of Mr Bell or Mr Kalat. 
+  - [ ] [Risky.Biz](https://risky.biz/) - Risky Business Media was founded in 2007 by cybersecurity journalist Patrick Gray, who started writing about cybersecurity in 2001. After some time on the ZDNet Australia news desk Patrick went freelance in 2004, writing for publications like SecurityFocus, Wired.com, The Age and The Sydney Morning Herald.
+
  ## Unsorted
   ### Tools
   - [ ] [Dehashed](https://dehashed.com) - Leaked creds, DNS data
