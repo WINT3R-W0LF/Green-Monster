@@ -3,7 +3,7 @@ This repository is designed to be a collection of resources to aid the weary sec
   ## Security and Risk Management
    ### Security control principles
    ### IT policies and methods
-  - [ ] [Altius Tempaltes](https://www.altiusit.com/policies.htm)
+  - [ ] [Altius Templates](https://www.altiusit.com/policies.htm)
   ### Ideas for security skills of data systems
    ### Calculation of observance requirements
    ### Creating a scope, proposal, and strategy for enterprise continuity requirements    
